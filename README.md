@@ -14,7 +14,11 @@ git add [folder]/* - add a whole folder
 
 git commit -m "[message]" - commit changes, must have a message, even if it's just "message"
 
-git push origin master - push changes to repo
+git push origin master - push changes to repo. Always push after committing to avoid merge errors
+
+If you get a merge error - SHUT IT DOWN. Restart, push, then pull.
+
+Extra commands:
 
 git status - status of repo, good for if you've added files
 
