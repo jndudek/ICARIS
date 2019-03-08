@@ -22,4 +22,6 @@ Extra commands:
 
 git status - status of repo, good for if you've added files
 
-git log - log of changes
+git log - log of changes - will require exit
+
+exit command - Q control M or Q control
