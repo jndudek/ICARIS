@@ -6,6 +6,7 @@ test = [["Circuit 1", 'R', 1, 'V', 1], ["Circuit 2", 'V', 2, 'R', 1], ["Circuit 
         ["Circuit 4", 'V', 4, 'R', 2], ["Circuit 5", 'R', 3, 'V', 5], ["Circuit 6", 'V', 1, 'R', 3],
         ["Circuit 7", 'R', 4, 'V', 2], ["Circuit 8", 'V', 3, 'R', 4], ["Circuit 9", 'R', 5, 'V', 4],
         ["Circuit 10", 'V', 5, 'R', 5]]
+test2 = ["Big Circuit", 'V', 1, 'R', 1, 'R', 1, 'V', 1]
 def export(input_components):
     sum = 0
     i = 1
@@ -27,7 +28,9 @@ def export(input_components):
     netlist.close()
 
 k = 0
-while (k < len(test)):
+#TGUI(export(test)
+#while (k < len(test)):
     #print(test[k])
-    export(test[k])
-    k += 1
+#    export(test[k])
+#    k += 1
+export(test2)
