@@ -25,3 +25,16 @@ git status - status of repo, good for if you've added files
 git log - log of changes - will require exit
 
 exit command - Q control M or Q control
+
+Commit merge error:
+
+    press "i"
+    go to the bottom, add a couple empty lines
+    write your merge message
+    press "esc"
+    write ":wq"
+    then press enter
+
+git rm - remove file from repo, only in emergencies
+
+git stash - if you commit a file at the same time as someone else, run this to go back to a clean directory. Add your file back in pulling their commit
