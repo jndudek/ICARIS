@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<stage7>
+  <maxWeakCount>11</maxWeakCount>
+  <stageThreshold>-2.5539817810058594e+00</stageThreshold>
+  <weakClassifiers>
+    <_>
+      <internalNodes>
+        0 -1 551349 1.1737701715901494e-03</internalNodes>
+      <leafValues>
+        -9.8412698507308960e-01 1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 172 -6.8768777418881655e-04</internalNodes>
+      <leafValues>
+        1. -9.1763931512832642e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1636 -3.0968445935286582e-04</internalNodes>
+      <leafValues>
+        9.6978396177291870e-01 -5.6755024194717407e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 27816 8.7666354374960065e-04</internalNodes>
+      <leafValues>
+        -8.7196364998817444e-02 1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 627380 5.1461509428918362e-04</internalNodes>
+      <leafValues>
+        -3.4658065997064114e-03 1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1726 5.5305659770965576e-05</internalNodes>
+      <leafValues>
+        1.0855839587748051e-02 -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 539479 -4.8259570030495524e-04</internalNodes>
+      <leafValues>
+        1. -5.7267327792942524e-03</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 296 -1.8693417587201111e-05</internalNodes>
+      <leafValues>
+        -1. 2.2205663844943047e-03</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 413 -1.0054076483356766e-05</internalNodes>
+      <leafValues>
+        1. -1.3528141425922513e-03</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 157 -1.6770869478932582e-05</internalNodes>
+      <leafValues>
+        -1. -8.2528101019718747e-10</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 157 -3.8499816582771018e-05</internalNodes>
+      <leafValues>
+        1. 1.6606528164316708e-14</leafValues></_></weakClassifiers></stage7>
+</opencv_storage>
