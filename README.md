@@ -18,6 +18,12 @@ git push origin master - push changes to repo. Always push after committing to a
 
 If you get a merge error - SHUT IT DOWN. Restart, push, then pull.
 
+Git-lfs
+
+git lfs install - set up git-lfs to upload large files. Not needed for pulling them
+
+git lfs track "*.[filetype]* - manage all large files of this type, can then add them as normal
+
 Extra commands:
 
 git status - status of repo, good for if you've added files
